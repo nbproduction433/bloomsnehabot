@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Thank You For Joining👩🏻‍💻", "The Official☑️ Bot By i_amsneha👩🏻‍✈️", "Watching👁 Over You-24/7🕵🏻‍♂️"];
+const statusMessages = ["Thank You For Joining👩🏻‍💻", "The Official☑️ Bot By i_amsneha👩🏻‍✈️"];
 
 
 let currentIndex = 0;
