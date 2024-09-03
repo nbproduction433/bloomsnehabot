@@ -23,7 +23,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Thank You For Joining👩🏻‍💻", "The Official☑️ Bot By i_amsneha👩🏻‍✈️"];
+const statusMessages = ["Shaping the Future of Tech, One Code at a Time"];
 
 
 let currentIndex = 0;
